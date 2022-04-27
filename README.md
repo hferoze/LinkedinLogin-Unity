@@ -13,7 +13,7 @@ OAuth2 Linkedin Sign in for Unity
 
 5. Unity-webview is required. Big thanks to https://github.com/gree/unity-webview!. Please include Unity-webview package from https://github.com/gree/unity-webview.
 
-# Gotcha! You will see an error when you open the project. Ignore this error and once the project is open simply import https://github.com/gree/unity-webview.
+## Gotcha! You will see an error when you open the project. Ignore this error and once the project is open simply import https://github.com/gree/unity-webview.
 
 Supported Platforms: Windows, Mac, iOS, Android etc.
 
